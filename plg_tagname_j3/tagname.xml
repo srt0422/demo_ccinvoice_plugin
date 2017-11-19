@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5.0" type="plugin" group="ccinvoicetags">
+	<name>ccInvoice - TagName</name>
+	<version>1.0.0</version>
+	<author>Chill Creations</author>
+	<copyright>Copyright 2008 (c) Chill Creations</copyright>
+	<creationDate>2015</creationDate>
+	<authorEmail>info@chillcreations.com</authorEmail>
+	<authorUrl>http://www.chillcreations.com</authorUrl>
+	<license>GNU General Public License v2</license>
+	<description>ccInvoices - Tag Name</description>
+	<files>
+		<filename plugin="tagname">tagname.php</filename>
+	</files>
+</extension>

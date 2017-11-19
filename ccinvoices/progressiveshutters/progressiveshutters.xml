@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="0.0.1" type="plugin" group="ccinvoicetags">
+	<name>ccInvoice - progressiveshutters</name>
+  <author>Scott Terry</author>
+  <creationDate>November 2017</creationDate>
+  <copyright>(C) 2017 Vireo. All rights reserved.</copyright>
+  <license>All rights reserved</license>
+  <authorEmail>vireo.development@gmail.com</authorEmail>
+  <authorUrl>facebook.com/cloudvireo</authorUrl>
+  <version>0.0.1</version>
+  <description>add custom tags to progressiveshutters invoices</description>
+	<files>
+		<filename plugin="progressiveshutters">progressiveshutters.php</filename>
+	</files>
+</extension>
